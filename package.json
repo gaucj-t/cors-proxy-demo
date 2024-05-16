@@ -1,0 +1,19 @@
+{
+  "name": "cors-proxy-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "proxy": "node proxy.js"
+  },
+  "keywords": [
+    "cors",
+    "proxy",
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
